@@ -1,3 +1,5 @@
+MOHAMAD ALI ALCHIHABI
+2210206509
 ### Mohamadali's panel
 
 this is a ibp project in 2024 ,
