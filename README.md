@@ -50,6 +50,6 @@ This project leverages the power of **XAMPP**, **PHP**, and **MySQL** to deliver
 
 ## Contact
 
-MOHAMADA ALI ALCHIHABI - [mohamadali.busienss@gmail.com](mailto:mohamadali.busienss@gmail.com)
+MOHAMADA ALI ALCHIHABI - [mohamadali.business@gmail.com](mailto:mohamadali.business@gmail.com)
 
 Project Link: [https://github.com/malishehahbi/2024_IBP_Project](https://github.com/malishehahbi/2024_IBP_Project)
