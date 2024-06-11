@@ -34,7 +34,7 @@ YOUTUBE Video: https://www.youtube.com/watch?v=897_hEODNzg
 
 <img src="https://lh3.googleusercontent.com/pw/AP1GczNtxaS0BfLkTTZu7K3H4Ttgm090HS1JaX0p78l4P8W19LLW8pcHtw8fPcSXlEOoeJuwuoVCWj1txQjNeJ7W883x4--KpxcxjNr9LGtEOayetN2ZTJmIDsUYp3rpbqWkbsjiICPZGostajuT9ur4sw_e=w958-h500-s-no-gm" alt="Dashboard" width="400"/>
 
-<img src="https://lh3.googleusercontent.com/pw/AP1GczOpC5J24EpV5u8AyK7JUpKVSTo7ZpDiSDpVa4HS9VPVVPEIbrH4g8lUaN0LcE-y7akIXgqOtrfcS6z6MlN-Va9JbK0gsBxr5kcD2i8_AP_mHA3CsFaElkqDkwPr3nlWeuYtaAunw9UxKSYo_ISQlndD=w1917-h997-s-no-gm?authuser=0" width="400"/>
+<img src="https://lh3.googleusercontent.com/pw/AP1GczPituHWFIkFhXvsNqXS1Jf2mzRK5h54ioLxdTk9F3CywcmDOvrty5s9mUtUNPcgrRMBkXrxYJ3wOSp5vSvzX6XAScJFUGAV9Kw_Kn_sybAwaiYU6KG79OZCo3bzqyEMAdSi-MCsdN5n6E9svBtqfHDW=w958-h498-s-no-gm"/>
 ### User Management
 
 <img src="https://lh3.googleusercontent.com/pw/AP1GczOpC5J24EpV5u8AyK7JUpKVSTo7ZpDiSDpVa4HS9VPVVPEIbrH4g8lUaN0LcE-y7akIXgqOtrfcS6z6MlN-Va9JbK0gsBxr5kcD2i8_AP_mHA3CsFaElkqDkwPr3nlWeuYtaAunw9UxKSYo_ISQlndD=w958-h498-s-no-gm" alt="User Management" width="400"/>
